@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Arch Linux) (preloaded format=xelatex 2022.6.5)  29 JUL 2022 17:34
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022/Arch Linux) (preloaded format=xelatex 2022.6.5)  29 JUL 2022 18:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -922,7 +922,8 @@ Requested font "[SourceSansPro-Regular.otf]/OT:script=latn;language=dflt;mappin
 g=tex-text;" at 10.95pt
  -> /usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regu
 lar.otf
- (mycv/cv.aux)
+
+No file cv.aux.
 \openout1 = `cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
@@ -945,7 +946,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
 LaTeX Font Info:    ... okay on input line 83.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1204,7 +1204,7 @@ g=tex-text;" at 8.0pt
  -> /usr/share/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Ligh
 tIt.otf
 ) (mycv/cv/skills.tex
-Overfull \hbox (74.8079pt too wide) in alignment at lines 10--65
+Overfull \hbox (74.8079pt too wide) in alignment at lines 10--38
 [] [] 
  []
 
@@ -1233,9 +1233,9 @@ ex-text;" at 9.0pt
 .otf
 ) [2] (mycv/cv.aux) ) 
 Here is how much of TeX's memory you used:
- 33021 strings out of 476156
- 668853 string characters out of 5814964
- 1153076 words of memory out of 5000000
+ 33019 strings out of 476156
+ 668831 string characters out of 5814964
+ 1152916 words of memory out of 5000000
  53213 multiletter control sequences out of 15000+600000
  472111 words of font info for 124 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
